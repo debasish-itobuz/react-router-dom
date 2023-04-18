@@ -1,0 +1,14 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+}
+.navbar-link {
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+.navbar-link:hover {
+  scale: 1.1;
+  color: chocolate;
+}
