@@ -9,7 +9,7 @@ import Contact from "./components/Contact";
 import Profile from "./components/Profile";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-function App() {
+function App()  {
   return (
     <>
       <BrowserRouter>
